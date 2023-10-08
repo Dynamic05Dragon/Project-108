@@ -1,0 +1,33 @@
+body{
+    font-family: 'Young Serif', serif;
+    background: lightblue;
+}
+
+.header_div{
+    background: whitesmoke;
+    color:darkblue;
+    letter-spacing: 2px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+
+.copyright_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: darkslategrey;
+    color: aliceblue;
+    text-align: center;
+    line-height: 3;
+    text-shadow: 5px 5px 5px cornflowerblue;
+    font-size: 18px;
+}
